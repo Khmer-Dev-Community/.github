@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/222339769?s=96&v=" alt="Khmer Dev Community Logo" width="200"/>
+  <img src="[https://avatars.githubusercontent.com/u/222339769?s=96&v=](https://raw.githubusercontent.com/Khmer-Dev-Community/.github/refs/heads/main/kdc.png)" alt="Khmer Dev Community Logo" width="200"/>
   <h1>Khmer Development Community</h1>
   <p>Building a stronger tech future for Cambodia, together.</p>
 </div>
